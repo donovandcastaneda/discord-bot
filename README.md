@@ -29,8 +29,6 @@ Available commands
 
 !nextstream - displays information about the next scheduled stream
 
-!uptime - displays the current uptime of the stream
-
 !game - displays the current game being played
 
 !title - displays the current stream title
